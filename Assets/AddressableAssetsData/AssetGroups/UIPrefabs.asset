@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UIPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: UIPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b345e803584d5cc4d9652557eca9ec53
+  m_SerializeEntries:
+  - m_GUID: 6633850ee4993ab4fbcbbb3194d1fb84
+    m_Address: CharacterPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f235565d958949d44a60502f0cfc5ce3
+    m_Address: UIEquipItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17bb9104f3fd8f045b306c9fb784237b
+    m_Address: UIThingItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2331b2ecd912ce4a903bfe465c11f02
+    m_Address: UIHRD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c96aada9206d9f64eb8ad08b1773758e
+    m_Address: UIHRDItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e0625e9f56576844acf6a7d7b1d3c3b
+    m_Address: LevelPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ccce3b6f8206214486b6079522f601f
+    m_Address: Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e56999d43dbb00b4b85f7ef111db8c34
+    m_Address: LoginPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a5d7f6ecacd190409a5d46ffa5c8bde
+    m_Address: MainPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d7cf1a1bfaab63459272a2d376f9993
+    m_Address: SettingPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca20cd35592914741bcb798b0628909a
+    m_Address: StartPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 070162a16346eb84d89ec5f671cc2778
+    m_Address: TaskPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3100fdcd9863f544eb1230a845284531
+    m_Address: WarningPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: da402c272d4863744a95f9e279fc3467, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 116a4f5d73677fc4cb346a72d0393561, type: 2}
+    - {fileID: 11400000, guid: d5b9c4910a5833145b2b87cc0a91f62a, type: 2}
